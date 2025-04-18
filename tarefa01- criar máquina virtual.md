@@ -42,5 +42,10 @@ Por fim, revisei todas as configurações e cliquei em "Revisar e criar".
 
 ![image](https://github.com/user-attachments/assets/d24fb23b-c7e2-4ed5-ad17-3d6e0edbe078)
 
+Testado o acesso a VM via SSH.
+
+![image](https://github.com/user-attachments/assets/f5194a33-9c64-4d9d-8c75-44e5db64183f)
+
+
 
 
