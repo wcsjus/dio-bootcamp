@@ -19,38 +19,28 @@
 
 
 # Agrupamento por país e produto
-País	Modelo	Quantidade Total	Preço Médio
-Austrália	RG28XX	13	70.001...
-Austrália	RG353M	15	110.005...
-Austrália	RG35XX	7	9.000.210
-Austrália	RG 40XXV	1	1.000.011
-Austrália	RG CubeXX	13	80.002...
-Canadá	RG28XX	11	70.004...
-Canadá	RG353M	2	1.100.016
-Canadá	RG35XX	12	90.003...
-Canadá	RG 40XXV	18	100.009...
-Canadá	RG CubeXX	5	80.001.317
-França	RG28XX	9	70.0016...
-França	RG353M	6	11.000.324
-França	RG35XX	15	90.0015...
-França	RG 40XXV	5	100.001.127
-França	RG CubeXX	9	80.001.927
-Alemanha	RG28XX	7	70.001.218
-Alemanha	RG353M	3	1.100.015
-Alemanha	RG35XX	9	90.005...
-Alemanha	RG 40XXV	11	100.007...
-Alemanha	RG CubeXX	5	8.000.414
-Japão	RG28XX	5	700.026
-Japão	RG353M	13	110.001...
-Japão	RG35XX	5	90.008
-Japão	RG 40XXV	15	100.003...
-Japão	RG CubeXX	8	80.003.031
-Reino Unido	RG28XX	13	70.001...
-Reino Unido	RG353M	12	110.001...
-Reino Unido	RG35XX	9	90.0012...
-Reino Unido	RG 40XXV	20	100.0011...
-Reino Unido	RG CubeXX	1	800.022
-EUA	RG28XX	4	70.005
-EUA	RG353M	7	110.006...
-EUA	RG35XX	2	900.020
-EUA	RG CubeXX	3	80.006...
+![image](https://github.com/user-attachments/assets/e86990f3-55c2-4fd9-8f0b-913185f213fe)
+
+# Continentes
+Os países de entrega registrados nas vendas dos produtos Meganium (e Anbernic, cujos registros de vendas parecem ser idênticos aos da Meganium nas fontes fornecidas) incluem:
+América do Norte:
+◦ Estados Unidos (USA)
+◦ Canadá
+
+Europa:
+◦ Alemanha (Germany)
+◦ Reino Unido (UK)
+◦ França (France)
+
+Oceania:
+◦ Austrália (Australia)
+
+Ásia:
+◦ Japão (Japan)
+
+
+# Produto por continente
+![image](https://github.com/user-attachments/assets/70cd93a3-f8d7-46ea-b614-817d0d2a5a01)
+
+
+
