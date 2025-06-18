@@ -6,6 +6,8 @@
 
 3. Com base nas informações das fontes "Meganium_Sales_Data.txt", "Meganium_Sales_Data_-AliExpress.txt", "Meganium_Sales_Data-Etsy.txt", e "Meganium_Sales_Data-_Shopee.txt", retorne uma tabela apresentando os dados agrupados por país de entrega e pelo modelo do produto (extraído do campo product_sold sem os prefixos "NEW MEGANIUM" ou "MEGANIUM"), e colunas como quantidade total, e preço médio.
 
+4. Faça a mesma tabela, mas considerando os países e os continentes aos quais eles pertencem, agrupe por continente.
+
 
 
 
