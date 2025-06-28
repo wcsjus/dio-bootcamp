@@ -12,4 +12,4 @@ Explorar soluções baseadas em inteligência artificial para transformar fala e
 - Detecção de sentimentos funcionou bem 
 
 
-![image](https://github.com/user-attachments/assets/d24fb23b-c7e2-4ed5-ad17-3d6e0edbe078)
+![image]([https://github.com/user-attachments/assets/d24fb23b-c7e2-4ed5-ad17-3d6e0edbe078](https://github.com/wcsjus/dio-bootcamp/blob/main/imagens/captura%20de%20tela.jpg?raw=true))
