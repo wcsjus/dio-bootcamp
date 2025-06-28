@@ -11,3 +11,5 @@ Explorar soluções baseadas em inteligência artificial para transformar fala e
 - A precisão do modelo melhora com boa qualidade de áudio (alguns áudios gravados para melhorar)
 - Detecção de sentimentos funcionou bem 
 
+
+![image](https://github.com/user-attachments/assets/d24fb23b-c7e2-4ed5-ad17-3d6e0edbe078)
